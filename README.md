@@ -1,5 +1,5 @@
 ### Hi, I'm Beatriz 👋👩🍀💻
-https://www.canva.com/design/DAFi4VWiRvA/4m33jBSVIQgFoD_Qw0txPQ/view?utm_content=DAFi4VWiRvA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+https://github.com/BeatrizCano/BeatrizCano/issues/3#issue-1708942896
 <!--
 **BeatrizCano/BeatrizCano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
