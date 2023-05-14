@@ -1,6 +1,6 @@
 ### Hi, I'm Beatriz 👋👩🍀💻
 
-https://github.com/BeatrizCano/BeatrizCano/issues/3#issue-1708942896
+
 
 
 <!--
