@@ -24,7 +24,7 @@
   Front End: [HTML, CSS, Bootstrap, JavaScript, AJAX, React]</h2>
 
   <h2>Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src="<img ="src https://files.softicons.com/download/social-media-icons/hq-social-media-icons-by-design-bolts/png/32x32/Twitter.png>"></a>
+  <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src="<img ="https://64.media.tumblr.com/07eab35f5abf0d55aabd022430040df0/tumblr_nca6tjn3aI1rtbl5vo1_400.gif"></a>
   <a href="https://twitter.com/BeatrizCan99975"><img src="https://celiahuang.com/images/linkedin.gif"></a>
 </div>
 
