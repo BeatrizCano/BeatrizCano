@@ -25,7 +25,7 @@
 
   <h2>Connect with Me</h2>
   <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src="<img ="src https://files.softicons.com/download/social-media-icons/hq-social-media-icons-by-design-bolts/png/32x32/Twitter.png>"></a>
-   <a href="https://twitter.com/BeatrizCan99975">![Twitter Squared](https://github.com/BeatrizCano/BeatrizCano/assets/130498392/596cfb77-b5e6-4e8e-ae1c-a18046b91796)></a>
+  <a href="https://twitter.com/BeatrizCan99975"><img src="https://p1.hiclipart.com/preview/949/134/459/z-long-shadow-icon-twitter-ls-png-clipart.jpg"></a>
 </div>
 
 <!--
