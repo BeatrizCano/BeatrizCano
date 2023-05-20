@@ -19,7 +19,7 @@
    FemCoders Norte P2 bootcamp</p>
 </div>  
 <div>
-  <h2>Roadmap bootcamp
+  <h2>Roadmap bootcamp</h2>
   Backend: [PHP, Laravel, Unit, MySQL],
   Front End: [HTML, CSS, Bootstrap, JavaScript, AJAX, React]</h2>
 
