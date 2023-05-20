@@ -7,13 +7,14 @@
   <h1>Collaboration is key</h1>
   <h2>About me</h2>
   <h3>Web Development Estudent</h3>
-  <p>I am a creative, friendly and goal-focused person. I enjoy learning and facing new challenges.
-  I love the world of programming and I work hard to improve my knowledge about it.</p>
+  <p>I am a creative, friendly and goal-focused person.</p> 
+  <p>I enjoy learning and facing new challenges.</p> 
+  <p>I love the world of programming and I work hard to improve my knowledge about it.</p>
 </div>
 <div>
   <h2>2023</h2>
   <h3>I am currently learning...</h3>
-  <p>Fundación Somos F5<p>
+  <h3>Fundación Somos F5</h3>
   <p>Avinguda Bogatell, 82 Bajos<p>
   <p>Barcelona, 08005<p>
   <p>FemCoders Norte P2 bootcamp</p>
