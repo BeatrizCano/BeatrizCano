@@ -24,9 +24,10 @@
   Front End: [HTML, CSS, Bootstrap, JavaScript, AJAX, React]</h2>
 
   <h2>Connect with Me</h2>
-   <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src=""></a>
-   <a href="https://twitter.com/BeatrizCan99975"><img src=""></a>
-</div>
+  ![recortar icnos (1)](https://github.com/BeatrizCano/BeatrizCano/assets/130498392/c705c648-6760-4eae-8398-d796a2311071)](https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/)
+   ![recortar icnos (2)](https://github.com/BeatrizCano/BeatrizCano/assets/130498392/9baec196-2bf9-494b-969f-553aac8264dc)(vhttps://twitter.com/BeatrizCan99975)
+ 
+
 
 <!--
 **BeatrizCano/BeatrizCano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
