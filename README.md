@@ -23,13 +23,9 @@
   Backend: [PHP, Laravel, Unit, MySQL],
   Front End: [HTML, CSS, Bootstrap, JavaScript, AJAX, React]</h2>
 
-  <h2>Connect with Me</h2>
-  ![recortar icnos (1)](https://github.com/BeatrizCano/BeatrizCano/assets/130498392/7490094a-7ede-4a57-8c7f-930a445f01a1)
+  <h2>Connect with Me</h2>  
   <a href=" https://twitter.com/BeatrizCan99975"><img src="https://github.com/BeatrizCano/BeatrizCano/assets/130498392/7490094a-7ede-4a57-8c7f-930a445f01a1"></a>
-
- https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/
-   https://twitter.com/BeatrizCan99975
- 
+  <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src=""></a> 
 </div>
 
 <!--
