@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <div>
   <h1>Collaboration is key</h1>
-  <h2>About me...</h2>
+  <h2>About me</h2>
   <h3>Web Development Estudent</h3>
   <p>I am a creative, friendly and goal-focused person.</p> 
   <p>I enjoy learning and facing new challenges.</p> 
@@ -13,7 +13,7 @@
 </div>
 <div>
   <h2>2023</h2>
-  <h3>I am currently learning...</h3>
+  <h3>I am currently learning</h3>
   <h3>Fundación Somos F5</h3>
   <p>Avinguda Bogatell, 82 Bajos<p>
   <p>Barcelona, 08005<p>
