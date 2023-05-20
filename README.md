@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <div>
   <h1>Collaboration is key</h1>
-  <h2>About me</h2>
+  <h2>About me...</h2>
   <h3>Web Development Estudent</h3>
   <p>I am a creative, friendly and goal-focused person.</p> 
   <p>I enjoy learning and facing new challenges.</p> 
