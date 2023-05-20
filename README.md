@@ -24,8 +24,8 @@
   Front End: [HTML, CSS, Bootstrap, JavaScript, AJAX, React]</h2>
 
   <h2>Connect with Me</h2>  
-  <a href=" https://twitter.com/BeatrizCan99975"><img src="https://github.com/BeatrizCano/BeatrizCano/assets/130498392/7490094a-7ede-4a57-8c7f-930a445f01a1"></a>
-  <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src=""></a> 
+  <a href=" https://twitter.com/BeatrizCan99975"><img src="https://github.com/BeatrizCano/BeatrizCano/assets/130498392/4d172ae7-7bc0-4f5e-a416-8460fa09dd4c"></a>
+  <a href="https://www.linkedin.com/in/beatriz-cano-fern%C3%A1ndez-4a8684210/"><img src="https://github.com/BeatrizCano/BeatrizCano/assets/130498392/2e870ba1-b7e7-49d0-81d0-3e6bf4baa6a0"></a> 
 </div>
 
 <!--
